@@ -1,3 +1,6 @@
 I'm goint to use this txt file to paratice git
 such as creating a new branch and push it to my repo
 
+now I created a new branch 'dev' and I should develop it using this branch.
+
+the temporialy last time I test this pattern to do and push to github
